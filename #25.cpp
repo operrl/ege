@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
+#include <algorithm>
 
 
 std::vector<int> solve(int num) { //количество делителей числа
